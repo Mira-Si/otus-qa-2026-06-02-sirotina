@@ -7,3 +7,9 @@
 
 ### Description for feature 1
 Lorem ipsum dolor amet.......
+
+
+## Plan for feature #2 ALL ITEMS
+- Implement sub-feature 2.1
+- Implement sub-feature 2.2
+- Implement sub-feature 2.3
