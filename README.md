@@ -14,3 +14,7 @@ Lorem ipsum dolor amet.......
 - Implement sub-feature 2.2
 - Implement sub-feature 2.3
 $$$ LOREM IPSUM $$$
+
+
+## NOW ON GITHUB
+SEE https://github.com/Mira-Si/otus-qa-2026-06-02-sirotina
