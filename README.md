@@ -18,3 +18,7 @@ $$$ LOREM IPSUM $$$
 
 ## NOW ON GITHUB
 SEE https://github.com/Mira-Si/otus-qa-2026-06-02-sirotina
+
+
+### According to trillo card 001
+Lorem ipsum
